@@ -49,6 +49,6 @@ df_large = df_large.drop('home_or_away', axis=1)
 
 # Sparar den nya .csv-filen
 
-df_large.to_csv("exampleDataWithOdds", index=False) # Byt ut filnamnet om du så önskar
+df_large.to_csv("exampleDataWithOdds.csv", index=False) # Byt ut filnamnet om du så önskar
 
 print("Program finished as expected.")
