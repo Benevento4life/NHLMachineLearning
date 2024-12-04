@@ -10,8 +10,8 @@ import pandas as pd
 
 # Läser in de två .csv-filerna
 
-df_odds = pd.read_csv("exampleData.csv") # Byt ut filnamnet om du så önskar
-df_large = pd.read_csv("exampleOdds.csv") # Byt ut filnamnet om du så önskar
+df_odds = pd.read_csv("exampleOdds.csv") # Byt ut filnamnet om du så önskar
+df_large = pd.read_csv("exampleData.csv") # Byt ut filnamnet om du så önskar
 
 # Sätter ihop dataseten
 
