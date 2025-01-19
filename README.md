@@ -1,2 +1,2 @@
 # NHLMachineLearning
-Samling av all kod använd för webscraping, processing, maskininlärning och testning för vårt gymnasiearbete.
+Samling av all kod och data använd i gymnasiearbetet, samt alla tränade program och dess förutsägningar.
